@@ -1,5 +1,5 @@
 ## Task 1
-**( animals category )**
+**( classify image )**
 
 This code employs a pre-trained deep learning model to categorize images. It utilizes the TensorFlow library to import the model and handle the input images. The picture is sorted into specific categories like "cat," "dog," or "rabbit." If the image does not fit into any of these categories, it is categorized as "not an animal." The aim of this code is to offer a simple and precise method for recognizing the content of images through artificial intelligence. 
 
